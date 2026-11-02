@@ -11,7 +11,7 @@ Se você deseja apenas utilizar a ferramenta sem precisar instalar o Python:
 2. Baixe o arquivo `injetor.exe`.
 3. Execute o programa como **Administrador** (necessário para ter permissão de ler/escrever na memória dos processos).
 
-4. ## ⚠️ Compatibilidade Importante (32 bits)
+ ## ⚠️ Compatibilidade Importante (32 bits)
 
 Este injetor foi compilado em **32 bits (x86)**. Devido às limitações de arquitetura do Windows:
 * **Compatibilidade:** Ele só funciona para injetar DLLs de **32 bits** dentro de processos/jogos que também sejam **32 bits**.
