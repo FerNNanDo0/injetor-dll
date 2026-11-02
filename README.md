@@ -5,7 +5,7 @@ Ferramenta simples e funcional para injeção de DLLs em processos do Windows, u
 ## 🚀 Como Baixar e Usar (Executável)
 
 Escolha a versão correta de acordo com a arquitetura do processo alvo na pasta `dist`:
-* **32 bits (ex: Point Blank):** `injetor.exe` (dentro da subpasta x86).
+* **32 bits (ex: Point Blank):** `injetor.exe` (dentro da subpasta `x86`).
 * **64 bits (ex: CS2 e jogos modernos):** `injetor.exe` (dentro da subpasta `x64`).
 
 *Dica: Execute sempre como **Administrador** para permitir a leitura e escrita na memória do processo.*
