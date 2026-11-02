@@ -1,3 +1,10 @@
+## ⚠️ Compatibilidade Importante (32 bits)
+
+Este injetor foi compilado em **32 bits (x86)**. Devido às limitações de arquitetura do Windows:
+* **Compatibilidade:** Ele só funciona para injetar DLLs de **32 bits** dentro de processos/jogos que também sejam **32 bits**.
+* **Alvo de 64 bits:** Não tente injetar em jogos ou programas de 64 bits (x64), pois a operação irá falhar.
+
+
 # Injetor de DLL (Python)
 
 Uma ferramenta simples e funcional para injeção de DLLs em processos do Windows, desenvolvida em Python utilizando chamadas de APIs nativas do sistema.
